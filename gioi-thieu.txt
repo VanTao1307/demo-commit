@@ -1,0 +1,2 @@
+Xin chào! Tôi tên là Van Tao.
+Đây là repo GitHub đầu tiên tôi tạo để học cách sử dụng Git và GitHub.
