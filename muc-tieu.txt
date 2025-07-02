@@ -1,0 +1,3 @@
+Mục tiêu 1: Làm quen với GitHub trong tuần này
+Mục tiêu 2: Hiểu được cách dùng commit, push và pull
+Mục tiêu 3: Tạo một project cá nhân đơn giản trong tháng này
