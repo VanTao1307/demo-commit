@@ -1,0 +1,13 @@
+File name: hello.txt
+
+Nội dung file:
+Xin chào GitHub! Đây là commit đầu tiên của tôi 😄
+
+↓
+
+Commit new file
+[ Tạo file hello.txt ]
+[ Đây là file test đầu tiên trên GitHub ]
+(o) Commit directly to the main branch
+
+[🟩 Commit new file]
