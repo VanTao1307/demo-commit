@@ -1,0 +1,3 @@
+- Tôi đã học cách tạo repository
+- Tôi biết cách tạo file và commit trực tiếp trên GitHub
+- Bước tiếp theo: Học cách tạo nhánh (branch) và pull request
